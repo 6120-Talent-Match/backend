@@ -2,7 +2,7 @@
 
 This is the backend of Talent Match, CS6120 final project.
 
-It is built with ![PostgreSQL](https://www.postgresql.org/) and ![FastAPI](https://fastapi.tiangolo.com/).
+It is built with [PostgreSQL](https://www.postgresql.org/) and [FastAPI](https://fastapi.tiangolo.com/).
 
 With this service, users can upload resume data including skills, education, experience and etc. With ![pgvector](https://github.com/pgvector/pgvector) extention, data will be vectorized, so users can search for resume by similarity.
 
@@ -12,7 +12,7 @@ With this service, users can upload resume data including skills, education, exp
 pip install requirements.txt
 ```
 
-Setup database with ![pgvector](https://github.com/pgvector/pgvector) extention.
+Setup database with [pgvector](https://github.com/pgvector/pgvector) extention.
 
 ## Schema
 
